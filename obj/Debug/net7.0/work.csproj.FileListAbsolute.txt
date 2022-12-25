@@ -1,0 +1,15 @@
+C:\Users\Roman\last pr\work\bin\Debug\net7.0\work.exe
+C:\Users\Roman\last pr\work\bin\Debug\net7.0\work.deps.json
+C:\Users\Roman\last pr\work\bin\Debug\net7.0\work.runtimeconfig.json
+C:\Users\Roman\last pr\work\bin\Debug\net7.0\work.dll
+C:\Users\Roman\last pr\work\bin\Debug\net7.0\work.pdb
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.csproj.AssemblyReference.cache
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.AssemblyInfoInputs.cache
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.AssemblyInfo.cs
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.csproj.CoreCompileInputs.cache
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.dll
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\refint\work.dll
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.pdb
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\work.genruntimeconfig.cache
+C:\Users\Roman\last pr\work\obj\Debug\net7.0\ref\work.dll
